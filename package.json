@@ -1,0 +1,20 @@
+{
+  "name": "appiumexample",
+  "version": "1.0.0",
+  "description": "a small example to try out appium",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webdriverio": "^4.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "appium",
+    "react-native"
+  ],
+  "author": "Tamara Temple <tamouse@gmail.com>",
+  "license": "ISC"
+}
